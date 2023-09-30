@@ -50,7 +50,9 @@ For development mode, then run:
 pip install -e ".[dev]"
 ```
 
-This will run `setup.py` in development mode, and install the additional dependencies required for development. For regular use, run instead
+This will run `setup.py` in development mode, and install the additional dependencies required for development.
+
+For regular use, run instead:
 
 ```
 pip install .
